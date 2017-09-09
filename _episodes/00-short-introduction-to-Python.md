@@ -302,7 +302,8 @@ def add_function(a, b):
     return result
 
 z = add_function(20, 22)
-print(z)
+print(z) # for python 3
+print z  # for python 2
 42
 ```
 
