@@ -170,8 +170,12 @@ produce any output on the screen. We can print the value of the `surveys_df`
 object by typing its name into the Python command prompt.
 
 ```python
-surveys_df
+surveys_df  
 ```
+OR, we can use 
+```python
+print(surveys_df)
+
 
 which prints contents like above
 
